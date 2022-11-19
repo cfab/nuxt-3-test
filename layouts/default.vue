@@ -10,8 +10,8 @@
       <NuxtLink to="/ssr">ssr</NuxtLink>
       <NuxtLink to="/swr">SWR</NuxtLink>
       <NuxtLink to="/static">static</NuxtLink>
-      <NuxtLink to="/10">10</NuxtLink>
-      <NuxtLink to="/180">180</NuxtLink>
+      <NuxtLink to="/21600">21600</NuxtLink>
+      <NuxtLink to="/600">600</NuxtLink>
     </nav>
     <slot></slot>
   </div>

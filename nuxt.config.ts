@@ -21,7 +21,7 @@ export default defineNuxtConfig({
     "/spar": { ssr: false },
     "/static": { static: true },
     "/swr": { swr: true },
-    "/180": { swr: 180 },
-    "/10": { swr: 10 },
+    "/600": { swr: 600 },
+    "/21600": { swr: 21600 },
   },
 });
